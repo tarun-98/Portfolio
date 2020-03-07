@@ -1,9 +1,3 @@
-COMP257/ITEC657 Data Science Portfolio 
-===
-
-__Name: Bala Sai Tarun Goli__
-
-__id: 45786690__
 
 Portfolio projects
 
@@ -23,8 +17,3 @@ the fields exported by that script can be seen in [the documentation for straval
      - Task2- Constructed a linear model. Plotted the residual vs Actual value graph 
      - Task3- Used Recursive Feature Estimation to identify and compare the accuaracies of model built on different number of features
    
-3. <u>Portfolio 3</u>: Kmeans Algorithm
-- Tasks- 
-      - Task1: Initialisation -In this step we randomly select k Cluster centres out of n data points.
-      - Task2: Cluster assignment- The data points present in dimensional space is assigned to the nearest cluster center indicating that it belongs to that class. The nearest criteria in sense is the minimum distance from which the point is located to a center.
-      -Task3: Finding new centroids- After clustering the centroids of new clusters were calculated.
